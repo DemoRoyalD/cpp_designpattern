@@ -1,2 +1,14 @@
-.idea
+# IntelliJ project files
 /cmake-build-debug/
+.vscode/
+.idea/
+*.iml
+out
+gen
+.DS_Store
+.vscode
+#*.class
+target/
+
+# log
+logs/
