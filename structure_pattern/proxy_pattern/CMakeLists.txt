@@ -1,0 +1,1 @@
+add_executable(proxy_pattern_main proxy_pattern_main.cpp)

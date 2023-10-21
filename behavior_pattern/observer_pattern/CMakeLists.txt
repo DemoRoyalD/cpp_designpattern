@@ -1,0 +1,1 @@
+add_executable(observer_pattern_main observer_pattern_main.cpp)

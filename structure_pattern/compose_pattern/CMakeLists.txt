@@ -1,0 +1,1 @@
+add_executable(compose_pattern compose_pattern.cpp)

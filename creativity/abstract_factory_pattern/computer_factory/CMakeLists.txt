@@ -1,0 +1,1 @@
+add_library(computer_factory OBJECT computer_factory.cpp)

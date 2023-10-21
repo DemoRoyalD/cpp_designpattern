@@ -1,0 +1,2 @@
+add_subdirectory(open_close_principle)
+add_subdirectory(dependency_reverse_principle)

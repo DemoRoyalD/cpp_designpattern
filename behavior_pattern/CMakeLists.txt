@@ -1,0 +1,5 @@
+add_subdirectory(template_pattern)
+add_subdirectory(command_pattern)
+add_subdirectory(strategy_pattern)
+add_subdirectory(observer_pattern)
+add_subdirectory(iterator_pattern)

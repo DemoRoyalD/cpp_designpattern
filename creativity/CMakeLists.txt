@@ -1,0 +1,4 @@
+add_subdirectory(simple_factory_pattern)
+add_subdirectory(factory_method_pattern)
+add_subdirectory(abstract_factory_pattern)
+add_subdirectory(singleton_pattern)

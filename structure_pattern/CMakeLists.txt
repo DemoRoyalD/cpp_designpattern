@@ -1,0 +1,5 @@
+add_subdirectory(proxy_pattern)
+add_subdirectory(decorator_pattern)
+add_subdirectory(facade_pattern)
+add_subdirectory(adapter_pattern)
+add_subdirectory(compose_pattern)

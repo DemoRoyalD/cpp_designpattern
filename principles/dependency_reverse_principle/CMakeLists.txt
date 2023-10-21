@@ -1,0 +1,4 @@
+project(open_close_principle)
+add_executable(dependency_reverse_principle_main dependency_reverse_principle_main.cpp)
+add_subdirectory(base_computer)
+target_include_directories(dependency_reverse_principle_main PRIVATE base_computer)

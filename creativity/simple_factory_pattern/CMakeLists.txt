@@ -1,0 +1,5 @@
+add_executable(simple_factory_pattern_main simple_factory_pattern_main.cpp)
+add_subdirectory(fruit_factory)
+target_include_directories(simple_factory_pattern_main PRIVATE fruit_factory)
+target_link_libraries(simple_factory_pattern_main PRIVATE fruit_factory)
+

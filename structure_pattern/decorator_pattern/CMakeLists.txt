@@ -1,0 +1,1 @@
+add_executable(decorator_pattern_main decorator_pattern_main.cpp)

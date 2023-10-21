@@ -1,0 +1,1 @@
+add_executable(singleton_pattern_main singleton_pattern_main.cpp)

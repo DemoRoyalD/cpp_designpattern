@@ -1,0 +1,1 @@
+add_executable(strategy_pattern_main strategy_pattern_main.cpp)

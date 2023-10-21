@@ -1,0 +1,4 @@
+project(open_close_principle)
+add_executable(open_close_principle_main open_close_principle_main.cpp)
+add_subdirectory(bank_work)
+target_include_directories(open_close_principle_main PRIVATE bank_work)

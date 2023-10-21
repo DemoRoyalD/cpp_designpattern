@@ -1,0 +1,1 @@
+add_executable(iterator_pattern_main iterator_pattern_main.cpp)
